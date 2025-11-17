@@ -1,4 +1,4 @@
-# 🚌 Sistema de Agência de Viagens (Java Swing)
+# 🚌 Sistema de Agência de Viagens (Java + Swing)
 
 Este é um sistema de desktop para gestão de viagens de autocarro (ônibus), construído inteiramente em **Java Swing**. O projeto demonstra o uso de estruturas de dados fundamentais (Pilha, Fila e Lista) para gerir reservas, check-ins e passageiros, tudo através de uma interface gráfica interativa e profissional.
 
